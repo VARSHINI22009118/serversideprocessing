@@ -129,11 +129,12 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![image](https://github.com/VARSHINI22009118/serversideprocessing/assets/119401150/ccd0e474-6f18-448a-9f03-ab25a038365a)
+![image](https://github.com/VARSHINI22009118/serversideprocessing/assets/119401150/0bc588ee-baf7-4cd1-a151-9c2355900735)
 
-
-
+## Home
+![image](https://github.com/VARSHINI22009118/serversideprocessing/assets/119401150/65082c0d-dbc5-407e-9bfa-a96ad342a589)
 
 
 ## Result:
+The program for implementing server side processing is completed successfully.
 
