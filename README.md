@@ -131,7 +131,9 @@ urlpatterns = [
 ## OUTPUT:
 ![image](https://github.com/VARSHINI22009118/serversideprocessing/assets/119401150/ccd0e474-6f18-448a-9f03-ab25a038365a)
 
-### Home Page:
+### HOME:
+![hout](https://github.com/VARSHINI22009118/serversideprocessing/assets/119401150/b9e14c5c-75da-44d6-82e6-15eee8168e66)
+
 
 
 ## Result:
